@@ -40,8 +40,9 @@
  -->
  
 ## 📚 Currently Learning
-- Japanese language  
-- Advanced MRI reconstruction techniques  
+- 🈵 Japanese language (always expanding my side quests!)  
+- 🖌 Experimenting with new art and design projects  
+- 💻 New coding tricks and side projects in CAD, Blender, and Figma
 
 ## 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/engyuhin/)  
