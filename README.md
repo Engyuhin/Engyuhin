@@ -27,25 +27,30 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Engyuhin&theme=apprentice&utcOffset=-5" /></td>
   </tr>
 </table>
- <br/>  
+
+<br/>  
+
 ## 🛠 Skills
 - **Programming:** C++, Python  
 - **Design Tools:** CAD, Blender, Figma  
 - **Other:** Microsoft Office, Lab Techniques
- 
- <br/>  
  <!-- to be added
- ## 🚀 Featured Projects
+<br/>  
+ 
+## 🚀 Featured Projects
 - [Project Name](link) — One-liner about the project
 - [Another Project](link) — Brief description
  -->
  
- <br/>  
+<br/>  
+
 ## 📚 Currently Learning
-- 🈵 Japanese language (always expanding my side quests!)  
+- 🈵 Japanese   
 - 🖌 Experimenting with new art and design projects  
 - 💻 New coding tricks and side projects in CAD, Blender, and Figma
+
 <br/>  
+
 ## 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/engyuhin/)  
 - [Email](mailto:nge18@mcmaster.ca)
