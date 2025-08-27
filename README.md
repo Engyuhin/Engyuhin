@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Engyuhin&theme=apprentice" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Engyuhin&theme=apprentice&utcOffset=8" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Engyuhin&theme=apprentice&utcOffset=-4" /></td>
   </tr>
 </table>
  
