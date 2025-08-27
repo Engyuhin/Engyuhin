@@ -44,7 +44,7 @@
  
 <br/>  
 
-## 📚 Currently Sidequests
+## 📚 Current Side Quests
 - 🈵 Learning Japanese   
 - 🖌 Experimenting with new art and design projects  
 
