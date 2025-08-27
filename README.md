@@ -52,7 +52,7 @@
 <br/>  
 
 ## 🤝 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/engyuhin/)  
-- [Email](mailto:nge18@mcmaster.ca)
+- [LinkedIn](https://www.linkedin.com/in/engyuhin/) – let’s network!
+- [Email](mailto:nge18@mcmaster.ca) – send me a message
 
   
