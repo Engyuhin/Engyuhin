@@ -44,10 +44,9 @@
  
 <br/>  
 
-## 📚 Currently Learning
-- 🈵 Japanese   
+## 📚 Currently Sidequests
+- 🈵 Learning Japanese   
 - 🖌 Experimenting with new art and design projects  
-- 💻 New coding tricks and side projects in CAD, Blender, and Figma
 
 <br/>  
 
